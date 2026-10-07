@@ -1,0 +1,15 @@
+{
+    "accuracy": 0.7197106690777577,
+    "precision": 0.7281553398058253,
+    "recall": 0.3712871287128713,
+    "f1_score": 0.4918032786885246,
+    "roc_auc": 0.7563820484612563,
+    "task": "Baseline vs Stress",
+    "features": [
+        "ecg_std",
+        "eda_mean",
+        "temp_std",
+        "resp_std"
+    ],
+    "evaluation": "Subject-aware held-out test split"
+}
